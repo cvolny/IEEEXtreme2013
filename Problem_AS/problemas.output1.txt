@@ -1,0 +1,3 @@
+Total Routes: 7
+Shortest Route Length: 4
+Shortest Route after Sorting of Routes of length 4: F G I K
